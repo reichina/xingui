@@ -1,0 +1,176 @@
+{
+		 name = 西部新规工事,
+		 type = view,
+		 text = ,
+		 contents = {
+				{
+				 kind = U3D,
+				 ifo = F:\object\apcad\ap3d\Projects\xingui\pdf_db\resource\西部新规工事.u3d,
+				},
+		},
+};
+{
+		 name = C-01-1C30-X1A,
+		 type = view,
+		 text = ,
+		 contents = {
+				{
+				 kind = DXF,
+				 ifo = F:\object\apcad\ap3d\Projects\xingui\pdf_db\resource\C-01-1C30-X1A.dxf,
+				},
+		},
+};
+{
+		 name = A-01,
+		 type = view,
+		 text = ,
+		 contents = {
+				{
+				 kind = DXF,
+				 ifo = F:\object\apcad\ap3d\Projects\xingui\pdf_db\resource\A-01.dxf,
+				},
+		},
+};
+{
+		 name = G-01-G30-1,
+		 type = view,
+		 text = ,
+		 contents = {
+				{
+				 kind = DXF,
+				 ifo = F:\object\apcad\ap3d\Projects\xingui\pdf_db\resource\G-01-G30-1.dxf,
+				},
+		},
+};
+{
+		 name = E-01,
+		 type = view,
+		 text = ,
+		 contents = {
+				{
+				 kind = DXF,
+				 ifo = F:\object\apcad\ap3d\Projects\xingui\pdf_db\resource\E-01.dxf,
+				},
+		},
+};
+{
+		 name = E-02-X1-X2-X3,
+		 type = view,
+		 text = ,
+		 contents = {
+				{
+				 kind = DXF,
+				 ifo = F:\object\apcad\ap3d\Projects\xingui\pdf_db\resource\E-02-X1-X2-X3.dxf,
+				},
+		},
+};
+{
+		 name = G-02-G30-2,
+		 type = view,
+		 text = ,
+		 contents = {
+				{
+				 kind = DXF,
+				 ifo = F:\object\apcad\ap3d\Projects\xingui\pdf_db\resource\G-02-G30-2.dxf,
+				},
+		},
+};
+{
+		 name = G-03-G30-3,
+		 type = view,
+		 text = ,
+		 contents = {
+				{
+				 kind = DXF,
+				 ifo = F:\object\apcad\ap3d\Projects\xingui\pdf_db\resource\G-03-G30-3.dxf,
+				},
+		},
+};
+{
+		 name = MC-01-MC15-1,
+		 type = view,
+		 text = ,
+		 contents = {
+				{
+				 kind = DXF,
+				 ifo = F:\object\apcad\ap3d\Projects\xingui\pdf_db\resource\MC-01-MC15-1.dxf,
+				},
+		},
+};
+{
+		 name = MC-02-MC15-2,
+		 type = view,
+		 text = ,
+		 contents = {
+				{
+				 kind = DXF,
+				 ifo = F:\object\apcad\ap3d\Projects\xingui\pdf_db\resource\MC-02-MC15-2.dxf,
+				},
+		},
+};
+{
+		 name = MC-03-MC15-3,
+		 type = view,
+		 text = ,
+		 contents = {
+				{
+				 kind = DXF,
+				 ifo = F:\object\apcad\ap3d\Projects\xingui\pdf_db\resource\MC-03-MC15-3.dxf,
+				},
+		},
+};
+{
+		 name = C-02-1C30-X2A,
+		 type = view,
+		 text = ,
+		 contents = {
+				{
+				 kind = DXF,
+				 ifo = F:\object\apcad\ap3d\Projects\xingui\pdf_db\resource\C-02-1C30-X2A.dxf,
+				},
+		},
+};
+{
+		 name = C-03-1C30-X3A,
+		 type = view,
+		 text = ,
+		 contents = {
+				{
+				 kind = DXF,
+				 ifo = F:\object\apcad\ap3d\Projects\xingui\pdf_db\resource\C-03-1C30-X3A.dxf,
+				},
+		},
+};
+{
+		 name = B-01,
+		 type = view,
+		 text = ,
+		 contents = {
+				{
+				 kind = DXF,
+				 ifo = F:\object\apcad\ap3d\Projects\xingui\pdf_db\resource\B-01.dxf,
+				},
+		},
+};
+{
+		 name = B-02,
+		 type = view,
+		 text = ,
+		 contents = {
+				{
+				 kind = DXF,
+				 ifo = F:\object\apcad\ap3d\Projects\xingui\pdf_db\resource\B-02.dxf,
+				},
+		},
+};
+{
+		 name = B-03,
+		 type = view,
+		 text = ,
+		 contents = {
+				{
+				 kind = DXF,
+				 ifo = F:\object\apcad\ap3d\Projects\xingui\pdf_db\resource\B-03.dxf,
+				},
+		},
+};
