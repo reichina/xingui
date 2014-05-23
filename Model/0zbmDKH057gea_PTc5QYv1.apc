@@ -1,0 +1,88 @@
+model = {
+ 	["0zbmDKH057gea_PTc5QYv1"] = {
+ 	 	["spt_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 0;
+ 	 	};
+ 	 	["beta"] = 0;
+ 	 	["section_"] = "H-200*150*6*9";
+ 	 	["alignment"] = {
+ 	 	 	["v"] = 0;
+ 	 	 	["h"] = 0;
+ 	 	};
+ 	 	["type"] = "Member";
+ 	 	["ept_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 5000;
+ 	 	};
+ 	 	["classname"] = "Member";
+ 	 	["color_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 1;
+ 	 	};
+ 	 	["beta"] = 180;
+ 	 	["date"] = {
+ 	 	 	["hour"] = 8;
+ 	 	 	["min"] = 31;
+ 	 	 	["wday"] = 5;
+ 	 	 	["day"] = 22;
+ 	 	 	["month"] = 5;
+ 	 	 	["year"] = 2014;
+ 	 	 	["sec"] = 59;
+ 	 	 	["yday"] = 142;
+ 	 	 	["isdst"] = false;
+ 	 	};
+ 	 	["class"] = "8";
+ 	 	["assembly_number"] = "1C30-X1A-1";
+ 	 	["part_number"] = "TM-12";
+ 	 	["weight"] = "1.56031275883993";
+ 	 	["material"] = "SS400";
+ 	 	["spt_"] = {
+ 	 	 	[1] = 23447.5;
+ 	 	 	[2] = 197.5;
+ 	 	 	[3] = 6500;
+ 	 	};
+ 	 	["weight_net"] = "1.38356236099381";
+ 	 	["section_"] = "[-100X50X5X7.5";
+ 	 	["type"] = "Member";
+ 	 	["user"] = "rei";
+ 	 	["edit_status"] = "add";
+ 	 	["mgrid"] = "0zbmDKH057gea_PTc5QYv1";
+ 	 	["name"] = "TM";
+ 	 	["time_str"] = {
+ 	 	 	["min"] = 31;
+ 	 	 	["year"] = 2014;
+ 	 	 	["month"] = 5;
+ 	 	 	["sec"] = 58;
+ 	 	 	["hour"] = 8;
+ 	 	 	["day"] = 22;
+ 	 	};
+ 	 	["bolts"] = {
+ 	 	};
+ 	 	["alignment"] = {
+ 	 	 	["h"] = 0;
+ 	 	 	["v"] = 0;
+ 	 	};
+ 	 	["tekla_id"] = "733717";
+ 	 	["ept_"] = {
+ 	 	 	[1] = 23447.5;
+ 	 	 	[2] = 197.5;
+ 	 	 	[3] = 6666.75;
+ 	 	};
+ 	 	["classname"] = "Member";
+ 	 	["time"] = 1400718718;
+ 	 	["color_"] = {
+ 	 	 	["name"] = "Color";
+ 	 	 	[2] = 0.5;
+ 	 	 	["name"] = "Color";
+ 	 	 	["r"] = 0.5;
+ 	 	 	[1] = 0.5;
+ 	 	 	["b"] = 0.5;
+ 	 	 	["g"] = 0.5;
+ 	 	 	[3] = 0.5;
+ 	 	};
+ 	};
+};

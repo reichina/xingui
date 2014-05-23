@@ -1,0 +1,97 @@
+model = {
+ 	["0H$eehZ$X2cR58WQxbqjYr"] = {
+ 	 	["spt_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 0;
+ 	 	};
+ 	 	["beta"] = 0;
+ 	 	["section_"] = "H-200*150*6*9";
+ 	 	["alignment"] = {
+ 	 	 	["v"] = 0;
+ 	 	 	["h"] = 0;
+ 	 	};
+ 	 	["type"] = "Member";
+ 	 	["ept_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 5000;
+ 	 	};
+ 	 	["classname"] = "Member";
+ 	 	["color_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 1;
+ 	 	};
+ 	 	["beta"] = 0;
+ 	 	["date"] = {
+ 	 	 	["hour"] = 8;
+ 	 	 	["min"] = 31;
+ 	 	 	["wday"] = 5;
+ 	 	 	["day"] = 22;
+ 	 	 	["month"] = 5;
+ 	 	 	["year"] = 2014;
+ 	 	 	["sec"] = 59;
+ 	 	 	["yday"] = 142;
+ 	 	 	["isdst"] = false;
+ 	 	};
+ 	 	["class"] = "4";
+ 	 	["assembly_number"] = "G29-X4C-1";
+ 	 	["part_number"] = "H294-9";
+ 	 	["weight"] = "273.290635599484";
+ 	 	["material"] = "SS400";
+ 	 	["spt_"] = {
+ 	 	 	["y"] = 22800;
+ 	 	 	[2] = 22800;
+ 	 	 	["name"] = "Point";
+ 	 	 	[3] = 8729.31;
+ 	 	 	[1] = 6000;
+ 	 	 	["z"] = 8729.31;
+ 	 	 	["x"] = 6000;
+ 	 	};
+ 	 	["weight_net"] = "267.713275689497";
+ 	 	["section_"] = "H-294X200X8X12";
+ 	 	["type"] = "Member";
+ 	 	["user"] = "rei";
+ 	 	["edit_status"] = "add";
+ 	 	["name"] = "G29";
+ 	 	["mgrid"] = "0H$eehZ$X2cR58WQxbqjYr";
+ 	 	["time_str"] = {
+ 	 	 	["min"] = 31;
+ 	 	 	["year"] = 2014;
+ 	 	 	["month"] = 5;
+ 	 	 	["sec"] = 58;
+ 	 	 	["hour"] = 8;
+ 	 	 	["day"] = 22;
+ 	 	};
+ 	 	["bolts"] = {
+ 	 	};
+ 	 	["tekla_id"] = "120028";
+ 	 	["alignment"] = {
+ 	 	 	["v"] = 0.5;
+ 	 	 	["h"] = 0;
+ 	 	};
+ 	 	["time"] = 1400718718;
+ 	 	["ept_"] = {
+ 	 	 	["y"] = 27707.5;
+ 	 	 	[2] = 27707.5;
+ 	 	 	["name"] = "Point";
+ 	 	 	[3] = 8574.46;
+ 	 	 	[1] = 6000;
+ 	 	 	["z"] = 8574.46;
+ 	 	 	["x"] = 6000;
+ 	 	};
+ 	 	["classname"] = "Member";
+ 	 	["producer"] = "tbj";
+ 	 	["color_"] = {
+ 	 	 	["name"] = "Color";
+ 	 	 	[2] = 0;
+ 	 	 	["name"] = "Color";
+ 	 	 	["r"] = 0;
+ 	 	 	[1] = 0;
+ 	 	 	["b"] = 1;
+ 	 	 	["g"] = 0;
+ 	 	 	[3] = 1;
+ 	 	};
+ 	};
+};

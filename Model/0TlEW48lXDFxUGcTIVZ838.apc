@@ -1,0 +1,88 @@
+model = {
+ 	["0TlEW48lXDFxUGcTIVZ838"] = {
+ 	 	["spt_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 0;
+ 	 	};
+ 	 	["beta"] = 0;
+ 	 	["section_"] = "H-200*150*6*9";
+ 	 	["alignment"] = {
+ 	 	 	["v"] = 0;
+ 	 	 	["h"] = 0;
+ 	 	};
+ 	 	["type"] = "Member";
+ 	 	["ept_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 5000;
+ 	 	};
+ 	 	["classname"] = "Member";
+ 	 	["color_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 1;
+ 	 	};
+ 	 	["beta"] = 0;
+ 	 	["date"] = {
+ 	 	 	["hour"] = 8;
+ 	 	 	["min"] = 31;
+ 	 	 	["wday"] = 5;
+ 	 	 	["day"] = 22;
+ 	 	 	["month"] = 5;
+ 	 	 	["year"] = 2014;
+ 	 	 	["sec"] = 59;
+ 	 	 	["yday"] = 142;
+ 	 	 	["isdst"] = false;
+ 	 	};
+ 	 	["class"] = "2";
+ 	 	["assembly_number"] = "HV20-153";
+ 	 	["part_number"] = "M20-124";
+ 	 	["weight"] = "5.59828103250567";
+ 	 	["material"] = "SNR400B";
+ 	 	["spt_"] = {
+ 	 	 	[1] = "21053.75";
+ 	 	 	[2] = "28628.25";
+ 	 	 	[3] = "4260.00";
+ 	 	};
+ 	 	["weight_net"] = "5.59828103250567";
+ 	 	["section_"] = "M20";
+ 	 	["type"] = "Member";
+ 	 	["user"] = "rei";
+ 	 	["edit_status"] = "add";
+ 	 	["mgrid"] = "0TlEW48lXDFxUGcTIVZ838";
+ 	 	["name"] = "HV20";
+ 	 	["time_str"] = {
+ 	 	 	["min"] = 31;
+ 	 	 	["year"] = 2014;
+ 	 	 	["month"] = 5;
+ 	 	 	["sec"] = 58;
+ 	 	 	["hour"] = 8;
+ 	 	 	["day"] = 22;
+ 	 	};
+ 	 	["bolts"] = {
+ 	 	};
+ 	 	["alignment"] = {
+ 	 	 	["v"] = 0;
+ 	 	 	["h"] = 0;
+ 	 	};
+ 	 	["tekla_id"] = "1075737";
+ 	 	["ept_"] = {
+ 	 	 	[1] = "22028.75";
+ 	 	 	[2] = "26303.00";
+ 	 	 	[3] = "4260.00";
+ 	 	};
+ 	 	["classname"] = "Member";
+ 	 	["time"] = 1400718718;
+ 	 	["color_"] = {
+ 	 	 	["name"] = "Color";
+ 	 	 	[2] = 0;
+ 	 	 	["name"] = "Color";
+ 	 	 	["r"] = 1;
+ 	 	 	[1] = 1;
+ 	 	 	["b"] = 0;
+ 	 	 	["g"] = 0;
+ 	 	 	[3] = 0;
+ 	 	};
+ 	};
+};
