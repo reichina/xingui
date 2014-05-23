@@ -1,13 +1,13 @@
 model = {
  	["3OEE4qR01B$fpE7_KyzOIO"] = {
  	 	["date"] = {
- 	 	 	["hour"] = 14;
- 	 	 	["min"] = 36;
+ 	 	 	["hour"] = 15;
+ 	 	 	["min"] = 5;
  	 	 	["wday"] = 6;
  	 	 	["day"] = 23;
  	 	 	["month"] = 5;
  	 	 	["year"] = 2014;
- 	 	 	["sec"] = 47;
+ 	 	 	["sec"] = 46;
  	 	 	["yday"] = 143;
  	 	 	["isdst"] = false;
  	 	};
@@ -84,23 +84,19 @@ model = {
  	 	 	 	};
  	 	 	 	["Tolerance"] = "3";
  	 	 	 	["Nut1"] = "True";
+ 	 	 	 	["Hole5"] = "False";
+ 	 	 	 	["BoltStandard"] = "M-BOLT(W-NUT)";
  	 	 	 	["weight"] = "7.374";
- 	 	 	 	["kind"] = "BoltArray";
- 	 	 	 	["FirstPosition"] = {
- 	 	 	 	 	["y"] = 28992.500000179;
- 	 	 	 	 	["x"] = 12199.999999847;
- 	 	 	 	 	["z"] = -126;
- 	 	 	 	};
  	 	 	 	["Hole4"] = "False";
  	 	 	 	["Length"] = "0";
- 	 	 	 	["Nut2"] = "False";
  	 	 	 	["weight_net"] = "0";
+ 	 	 	 	["Nut2"] = "False";
+ 	 	 	 	["CutLength"] = "200";
  	 	 	 	["bolts_disty"] = {
  	 	 	 	 	[1] = {
  	 	 	 	 	 	["dis"] = "0";
  	 	 	 	 	};
  	 	 	 	};
- 	 	 	 	["CutLength"] = "200";
  	 	 	 	["EndPointOffset"] = {
  	 	 	 	 	["Dx"] = 0;
  	 	 	 	 	["Dy"] = 0;
@@ -121,8 +117,8 @@ model = {
  	 	 	 	 	 	["name"] = "Point";
  	 	 	 	 	 	[3] = -126;
  	 	 	 	 	 	[1] = 12199.999999847;
- 	 	 	 	 	 	["x"] = 12199.999999847;
  	 	 	 	 	 	["z"] = -126;
+ 	 	 	 	 	 	["x"] = 12199.999999847;
  	 	 	 	 	};
  	 	 	 	};
  	 	 	 	["Bolt"] = "True";
@@ -137,8 +133,12 @@ model = {
  	 	 	 	 	["DepthOffset"] = "0";
  	 	 	 	};
  	 	 	 	["Washer1"] = "True";
- 	 	 	 	["BoltStandard"] = "M-BOLT(W-NUT)";
- 	 	 	 	["Hole5"] = "False";
+ 	 	 	 	["kind"] = "BoltArray";
+ 	 	 	 	["FirstPosition"] = {
+ 	 	 	 	 	["y"] = 28992.500000179;
+ 	 	 	 	 	["x"] = 12199.999999847;
+ 	 	 	 	 	["z"] = -126;
+ 	 	 	 	};
  	 	 	 	["BoltSize"] = "72";
  	 	 	};
  	 	 	[2] = {
@@ -159,23 +159,19 @@ model = {
  	 	 	 	};
  	 	 	 	["Tolerance"] = "3";
  	 	 	 	["Nut1"] = "True";
+ 	 	 	 	["Hole5"] = "False";
+ 	 	 	 	["BoltStandard"] = "M-BOLT(W-NUT)";
  	 	 	 	["weight"] = "7.374";
- 	 	 	 	["kind"] = "BoltArray";
- 	 	 	 	["FirstPosition"] = {
- 	 	 	 	 	["y"] = 28507.499978599;
- 	 	 	 	 	["x"] = 12284.999999847;
- 	 	 	 	 	["z"] = -126;
- 	 	 	 	};
  	 	 	 	["Hole4"] = "False";
  	 	 	 	["Length"] = "0";
- 	 	 	 	["Nut2"] = "False";
  	 	 	 	["weight_net"] = "0";
+ 	 	 	 	["Nut2"] = "False";
+ 	 	 	 	["CutLength"] = "200";
  	 	 	 	["bolts_disty"] = {
  	 	 	 	 	[1] = {
  	 	 	 	 	 	["dis"] = "0";
  	 	 	 	 	};
  	 	 	 	};
- 	 	 	 	["CutLength"] = "200";
  	 	 	 	["EndPointOffset"] = {
  	 	 	 	 	["Dx"] = 0;
  	 	 	 	 	["Dy"] = 0;
@@ -196,8 +192,8 @@ model = {
  	 	 	 	 	 	["name"] = "Point";
  	 	 	 	 	 	[3] = -126;
  	 	 	 	 	 	[1] = 12284.999999847;
- 	 	 	 	 	 	["x"] = 12284.999999847;
  	 	 	 	 	 	["z"] = -126;
+ 	 	 	 	 	 	["x"] = 12284.999999847;
  	 	 	 	 	};
  	 	 	 	};
  	 	 	 	["Bolt"] = "True";
@@ -212,8 +208,12 @@ model = {
  	 	 	 	 	["DepthOffset"] = "0";
  	 	 	 	};
  	 	 	 	["Washer1"] = "True";
- 	 	 	 	["BoltStandard"] = "M-BOLT(W-NUT)";
- 	 	 	 	["Hole5"] = "False";
+ 	 	 	 	["kind"] = "BoltArray";
+ 	 	 	 	["FirstPosition"] = {
+ 	 	 	 	 	["y"] = 28507.499978599;
+ 	 	 	 	 	["x"] = 12284.999999847;
+ 	 	 	 	 	["z"] = -126;
+ 	 	 	 	};
  	 	 	 	["BoltSize"] = "72";
  	 	 	};
  	 	 	[8] = {
@@ -234,23 +234,19 @@ model = {
  	 	 	 	};
  	 	 	 	["Tolerance"] = "3";
  	 	 	 	["Nut1"] = "True";
+ 	 	 	 	["Hole5"] = "False";
+ 	 	 	 	["BoltStandard"] = "M-BOLT(W-NUT)";
  	 	 	 	["weight"] = "7.374";
- 	 	 	 	["kind"] = "BoltArray";
- 	 	 	 	["FirstPosition"] = {
- 	 	 	 	 	["y"] = 28992.500000179;
- 	 	 	 	 	["x"] = 11799.999999847;
- 	 	 	 	 	["z"] = -126;
- 	 	 	 	};
  	 	 	 	["Hole4"] = "False";
  	 	 	 	["Length"] = "0";
- 	 	 	 	["Nut2"] = "False";
  	 	 	 	["weight_net"] = "0";
+ 	 	 	 	["Nut2"] = "False";
+ 	 	 	 	["CutLength"] = "200";
  	 	 	 	["bolts_disty"] = {
  	 	 	 	 	[1] = {
  	 	 	 	 	 	["dis"] = "0";
  	 	 	 	 	};
  	 	 	 	};
- 	 	 	 	["CutLength"] = "200";
  	 	 	 	["EndPointOffset"] = {
  	 	 	 	 	["Dx"] = 0;
  	 	 	 	 	["Dy"] = 0;
@@ -271,8 +267,8 @@ model = {
  	 	 	 	 	 	["name"] = "Point";
  	 	 	 	 	 	[3] = -126;
  	 	 	 	 	 	[1] = 11799.999999847;
- 	 	 	 	 	 	["x"] = 11799.999999847;
  	 	 	 	 	 	["z"] = -126;
+ 	 	 	 	 	 	["x"] = 11799.999999847;
  	 	 	 	 	};
  	 	 	 	};
  	 	 	 	["Bolt"] = "True";
@@ -287,8 +283,12 @@ model = {
  	 	 	 	 	["DepthOffset"] = "0";
  	 	 	 	};
  	 	 	 	["Washer1"] = "True";
- 	 	 	 	["BoltStandard"] = "M-BOLT(W-NUT)";
- 	 	 	 	["Hole5"] = "False";
+ 	 	 	 	["kind"] = "BoltArray";
+ 	 	 	 	["FirstPosition"] = {
+ 	 	 	 	 	["y"] = 28992.500000179;
+ 	 	 	 	 	["x"] = 11799.999999847;
+ 	 	 	 	 	["z"] = -126;
+ 	 	 	 	};
  	 	 	 	["BoltSize"] = "72";
  	 	 	};
  	 	 	[3] = {
@@ -309,23 +309,19 @@ model = {
  	 	 	 	};
  	 	 	 	["Tolerance"] = "3";
  	 	 	 	["Nut1"] = "True";
+ 	 	 	 	["Hole5"] = "False";
+ 	 	 	 	["BoltStandard"] = "M-BOLT(W-NUT)";
  	 	 	 	["weight"] = "7.374";
- 	 	 	 	["kind"] = "BoltArray";
- 	 	 	 	["FirstPosition"] = {
- 	 	 	 	 	["y"] = 28422.500000179;
- 	 	 	 	 	["x"] = 11799.999999847;
- 	 	 	 	 	["z"] = -126;
- 	 	 	 	};
  	 	 	 	["Hole4"] = "False";
  	 	 	 	["Length"] = "0";
- 	 	 	 	["Nut2"] = "False";
  	 	 	 	["weight_net"] = "0";
+ 	 	 	 	["Nut2"] = "False";
+ 	 	 	 	["CutLength"] = "200";
  	 	 	 	["bolts_disty"] = {
  	 	 	 	 	[1] = {
  	 	 	 	 	 	["dis"] = "0";
  	 	 	 	 	};
  	 	 	 	};
- 	 	 	 	["CutLength"] = "200";
  	 	 	 	["EndPointOffset"] = {
  	 	 	 	 	["Dx"] = 0;
  	 	 	 	 	["Dy"] = 0;
@@ -346,8 +342,8 @@ model = {
  	 	 	 	 	 	["name"] = "Point";
  	 	 	 	 	 	[3] = -126;
  	 	 	 	 	 	[1] = 11799.999999847;
- 	 	 	 	 	 	["x"] = 11799.999999847;
  	 	 	 	 	 	["z"] = -126;
+ 	 	 	 	 	 	["x"] = 11799.999999847;
  	 	 	 	 	};
  	 	 	 	};
  	 	 	 	["Bolt"] = "True";
@@ -362,8 +358,12 @@ model = {
  	 	 	 	 	["DepthOffset"] = "0";
  	 	 	 	};
  	 	 	 	["Washer1"] = "True";
- 	 	 	 	["BoltStandard"] = "M-BOLT(W-NUT)";
- 	 	 	 	["Hole5"] = "False";
+ 	 	 	 	["kind"] = "BoltArray";
+ 	 	 	 	["FirstPosition"] = {
+ 	 	 	 	 	["y"] = 28422.500000179;
+ 	 	 	 	 	["x"] = 11799.999999847;
+ 	 	 	 	 	["z"] = -126;
+ 	 	 	 	};
  	 	 	 	["BoltSize"] = "72";
  	 	 	};
  	 	 	[1] = {
@@ -384,23 +384,19 @@ model = {
  	 	 	 	};
  	 	 	 	["Tolerance"] = "3";
  	 	 	 	["Nut1"] = "True";
+ 	 	 	 	["Hole5"] = "False";
+ 	 	 	 	["BoltStandard"] = "M-BOLT(W-NUT)";
  	 	 	 	["weight"] = "7.374";
- 	 	 	 	["kind"] = "BoltArray";
- 	 	 	 	["FirstPosition"] = {
- 	 	 	 	 	["y"] = 28422.500000179;
- 	 	 	 	 	["x"] = 12199.999999847;
- 	 	 	 	 	["z"] = -126;
- 	 	 	 	};
  	 	 	 	["Hole4"] = "False";
  	 	 	 	["Length"] = "0";
- 	 	 	 	["Nut2"] = "False";
  	 	 	 	["weight_net"] = "0";
+ 	 	 	 	["Nut2"] = "False";
+ 	 	 	 	["CutLength"] = "200";
  	 	 	 	["bolts_disty"] = {
  	 	 	 	 	[1] = {
  	 	 	 	 	 	["dis"] = "0";
  	 	 	 	 	};
  	 	 	 	};
- 	 	 	 	["CutLength"] = "200";
  	 	 	 	["EndPointOffset"] = {
  	 	 	 	 	["Dx"] = 0;
  	 	 	 	 	["Dy"] = 0;
@@ -421,8 +417,8 @@ model = {
  	 	 	 	 	 	["name"] = "Point";
  	 	 	 	 	 	[3] = -126;
  	 	 	 	 	 	[1] = 12199.999999847;
- 	 	 	 	 	 	["x"] = 12199.999999847;
  	 	 	 	 	 	["z"] = -126;
+ 	 	 	 	 	 	["x"] = 12199.999999847;
  	 	 	 	 	};
  	 	 	 	};
  	 	 	 	["Bolt"] = "True";
@@ -437,8 +433,12 @@ model = {
  	 	 	 	 	["DepthOffset"] = "0";
  	 	 	 	};
  	 	 	 	["Washer1"] = "True";
- 	 	 	 	["BoltStandard"] = "M-BOLT(W-NUT)";
- 	 	 	 	["Hole5"] = "False";
+ 	 	 	 	["kind"] = "BoltArray";
+ 	 	 	 	["FirstPosition"] = {
+ 	 	 	 	 	["y"] = 28422.500000179;
+ 	 	 	 	 	["x"] = 12199.999999847;
+ 	 	 	 	 	["z"] = -126;
+ 	 	 	 	};
  	 	 	 	["BoltSize"] = "72";
  	 	 	};
  	 	 	[4] = {
@@ -459,23 +459,19 @@ model = {
  	 	 	 	};
  	 	 	 	["Tolerance"] = "3";
  	 	 	 	["Nut1"] = "True";
+ 	 	 	 	["Hole5"] = "False";
+ 	 	 	 	["BoltStandard"] = "M-BOLT(W-NUT)";
  	 	 	 	["weight"] = "7.374";
- 	 	 	 	["kind"] = "BoltArray";
- 	 	 	 	["FirstPosition"] = {
- 	 	 	 	 	["y"] = 28507.499978599;
- 	 	 	 	 	["x"] = 11714.999999847;
- 	 	 	 	 	["z"] = -126;
- 	 	 	 	};
  	 	 	 	["Hole4"] = "False";
  	 	 	 	["Length"] = "0";
- 	 	 	 	["Nut2"] = "False";
  	 	 	 	["weight_net"] = "0";
+ 	 	 	 	["Nut2"] = "False";
+ 	 	 	 	["CutLength"] = "200";
  	 	 	 	["bolts_disty"] = {
  	 	 	 	 	[1] = {
  	 	 	 	 	 	["dis"] = "0";
  	 	 	 	 	};
  	 	 	 	};
- 	 	 	 	["CutLength"] = "200";
  	 	 	 	["EndPointOffset"] = {
  	 	 	 	 	["Dx"] = 0;
  	 	 	 	 	["Dy"] = 0;
@@ -496,8 +492,8 @@ model = {
  	 	 	 	 	 	["name"] = "Point";
  	 	 	 	 	 	[3] = -126;
  	 	 	 	 	 	[1] = 11714.999999847;
- 	 	 	 	 	 	["x"] = 11714.999999847;
  	 	 	 	 	 	["z"] = -126;
+ 	 	 	 	 	 	["x"] = 11714.999999847;
  	 	 	 	 	};
  	 	 	 	};
  	 	 	 	["Bolt"] = "True";
@@ -512,8 +508,12 @@ model = {
  	 	 	 	 	["DepthOffset"] = "0";
  	 	 	 	};
  	 	 	 	["Washer1"] = "True";
- 	 	 	 	["BoltStandard"] = "M-BOLT(W-NUT)";
- 	 	 	 	["Hole5"] = "False";
+ 	 	 	 	["kind"] = "BoltArray";
+ 	 	 	 	["FirstPosition"] = {
+ 	 	 	 	 	["y"] = 28507.499978599;
+ 	 	 	 	 	["x"] = 11714.999999847;
+ 	 	 	 	 	["z"] = -126;
+ 	 	 	 	};
  	 	 	 	["BoltSize"] = "72";
  	 	 	};
  	 	 	[5] = {
@@ -534,23 +534,19 @@ model = {
  	 	 	 	};
  	 	 	 	["Tolerance"] = "3";
  	 	 	 	["Nut1"] = "True";
+ 	 	 	 	["Hole5"] = "False";
+ 	 	 	 	["BoltStandard"] = "M-BOLT(W-NUT)";
  	 	 	 	["weight"] = "7.374";
- 	 	 	 	["kind"] = "BoltArray";
- 	 	 	 	["FirstPosition"] = {
- 	 	 	 	 	["y"] = 28907.499978599;
- 	 	 	 	 	["x"] = 12284.999999847;
- 	 	 	 	 	["z"] = -126;
- 	 	 	 	};
  	 	 	 	["Hole4"] = "False";
  	 	 	 	["Length"] = "0";
- 	 	 	 	["Nut2"] = "False";
  	 	 	 	["weight_net"] = "0";
+ 	 	 	 	["Nut2"] = "False";
+ 	 	 	 	["CutLength"] = "200";
  	 	 	 	["bolts_disty"] = {
  	 	 	 	 	[1] = {
  	 	 	 	 	 	["dis"] = "0";
  	 	 	 	 	};
  	 	 	 	};
- 	 	 	 	["CutLength"] = "200";
  	 	 	 	["EndPointOffset"] = {
  	 	 	 	 	["Dx"] = 0;
  	 	 	 	 	["Dy"] = 0;
@@ -571,8 +567,8 @@ model = {
  	 	 	 	 	 	["name"] = "Point";
  	 	 	 	 	 	[3] = -126;
  	 	 	 	 	 	[1] = 12284.999999847;
- 	 	 	 	 	 	["x"] = 12284.999999847;
  	 	 	 	 	 	["z"] = -126;
+ 	 	 	 	 	 	["x"] = 12284.999999847;
  	 	 	 	 	};
  	 	 	 	};
  	 	 	 	["Bolt"] = "True";
@@ -587,8 +583,12 @@ model = {
  	 	 	 	 	["DepthOffset"] = "0";
  	 	 	 	};
  	 	 	 	["Washer1"] = "True";
- 	 	 	 	["BoltStandard"] = "M-BOLT(W-NUT)";
- 	 	 	 	["Hole5"] = "False";
+ 	 	 	 	["kind"] = "BoltArray";
+ 	 	 	 	["FirstPosition"] = {
+ 	 	 	 	 	["y"] = 28907.499978599;
+ 	 	 	 	 	["x"] = 12284.999999847;
+ 	 	 	 	 	["z"] = -126;
+ 	 	 	 	};
  	 	 	 	["BoltSize"] = "72";
  	 	 	};
  	 	 	[7] = {
@@ -609,23 +609,19 @@ model = {
  	 	 	 	};
  	 	 	 	["Tolerance"] = "3";
  	 	 	 	["Nut1"] = "True";
+ 	 	 	 	["Hole5"] = "False";
+ 	 	 	 	["BoltStandard"] = "M-BOLT(W-NUT)";
  	 	 	 	["weight"] = "7.374";
- 	 	 	 	["kind"] = "BoltArray";
- 	 	 	 	["FirstPosition"] = {
- 	 	 	 	 	["y"] = 28907.499978599;
- 	 	 	 	 	["x"] = 11714.999999847;
- 	 	 	 	 	["z"] = -126;
- 	 	 	 	};
  	 	 	 	["Hole4"] = "False";
  	 	 	 	["Length"] = "0";
- 	 	 	 	["Nut2"] = "False";
  	 	 	 	["weight_net"] = "0";
+ 	 	 	 	["Nut2"] = "False";
+ 	 	 	 	["CutLength"] = "200";
  	 	 	 	["bolts_disty"] = {
  	 	 	 	 	[1] = {
  	 	 	 	 	 	["dis"] = "0";
  	 	 	 	 	};
  	 	 	 	};
- 	 	 	 	["CutLength"] = "200";
  	 	 	 	["EndPointOffset"] = {
  	 	 	 	 	["Dx"] = 0;
  	 	 	 	 	["Dy"] = 0;
@@ -646,8 +642,8 @@ model = {
  	 	 	 	 	 	["name"] = "Point";
  	 	 	 	 	 	[3] = -126;
  	 	 	 	 	 	[1] = 11714.999999847;
- 	 	 	 	 	 	["x"] = 11714.999999847;
  	 	 	 	 	 	["z"] = -126;
+ 	 	 	 	 	 	["x"] = 11714.999999847;
  	 	 	 	 	};
  	 	 	 	};
  	 	 	 	["Bolt"] = "True";
@@ -662,14 +658,22 @@ model = {
  	 	 	 	 	["DepthOffset"] = "0";
  	 	 	 	};
  	 	 	 	["Washer1"] = "True";
- 	 	 	 	["BoltStandard"] = "M-BOLT(W-NUT)";
- 	 	 	 	["Hole5"] = "False";
+ 	 	 	 	["kind"] = "BoltArray";
+ 	 	 	 	["FirstPosition"] = {
+ 	 	 	 	 	["y"] = 28907.499978599;
+ 	 	 	 	 	["x"] = 11714.999999847;
+ 	 	 	 	 	["z"] = -126;
+ 	 	 	 	};
  	 	 	 	["BoltSize"] = "72";
  	 	 	};
  	 	};
  	 	["type"] = "Plate";
  	 	["user"] = "rei";
  	 	["tekla_id"] = "159591";
+ 	 	["edit_status"] = "add";
+ 	 	["time"] = 1400718718;
+ 	 	["mgrid"] = "3OEE4qR01B$fpE7_KyzOIO";
+ 	 	["name"] = "PLATE";
  	 	["time_str"] = {
  	 	 	["min"] = 31;
  	 	 	["year"] = 2014;
@@ -678,10 +682,6 @@ model = {
  	 	 	["hour"] = 8;
  	 	 	["day"] = 22;
  	 	};
- 	 	["mgrid"] = "3OEE4qR01B$fpE7_KyzOIO";
- 	 	["time"] = 1400718718;
- 	 	["name"] = "PLATE";
- 	 	["edit_status"] = "add";
  	 	["contour"] = {
  	 	 	[6] = {
  	 	 	 	["y"] = 28457.500000158;
@@ -689,8 +689,8 @@ model = {
  	 	 	 	["name"] = "Point";
  	 	 	 	[3] = "-170.00";
  	 	 	 	[1] = "12350.00";
- 	 	 	 	["x"] = 12349.999999847;
  	 	 	 	["z"] = -148;
+ 	 	 	 	["x"] = 12349.999999847;
  	 	 	};
  	 	 	[2] = {
  	 	 	 	["y"] = 28957.500000026;
@@ -698,8 +698,8 @@ model = {
  	 	 	 	["name"] = "Point";
  	 	 	 	[3] = "-170.00";
  	 	 	 	[1] = "11650.00";
- 	 	 	 	["x"] = 11650.000000026;
  	 	 	 	["z"] = -148;
+ 	 	 	 	["x"] = 11650.000000026;
  	 	 	};
  	 	 	[8] = {
  	 	 	 	["y"] = 29057.5;
@@ -707,8 +707,8 @@ model = {
  	 	 	 	["name"] = "Point";
  	 	 	 	[3] = "-170.00";
  	 	 	 	[1] = "12250.00";
- 	 	 	 	["x"] = 12250.000021452;
  	 	 	 	["z"] = -148;
+ 	 	 	 	["x"] = 12250.000021452;
  	 	 	};
  	 	 	[3] = {
  	 	 	 	["y"] = 28457.499978579;
@@ -716,8 +716,8 @@ model = {
  	 	 	 	["name"] = "Point";
  	 	 	 	[3] = "-170.00";
  	 	 	 	[1] = "11650.00";
- 	 	 	 	["x"] = 11650.000000026;
  	 	 	 	["z"] = -148;
+ 	 	 	 	["x"] = 11650.000000026;
  	 	 	};
  	 	 	[1] = {
  	 	 	 	["y"] = 29057.5;
@@ -725,8 +725,8 @@ model = {
  	 	 	 	["name"] = "Point";
  	 	 	 	[3] = "-170.00";
  	 	 	 	[1] = "11750.00";
- 	 	 	 	["x"] = 11750;
  	 	 	 	["z"] = -148;
+ 	 	 	 	["x"] = 11750;
  	 	 	};
  	 	 	[4] = {
  	 	 	 	["y"] = 28357.499978605;
@@ -734,8 +734,8 @@ model = {
  	 	 	 	["name"] = "Point";
  	 	 	 	[3] = "-170.00";
  	 	 	 	[1] = "11750.00";
- 	 	 	 	["x"] = 11750;
  	 	 	 	["z"] = -148;
+ 	 	 	 	["x"] = 11750;
  	 	 	};
  	 	 	[5] = {
  	 	 	 	["y"] = 28357.500000184;
@@ -743,8 +743,8 @@ model = {
  	 	 	 	["name"] = "Point";
  	 	 	 	[3] = "-170.00";
  	 	 	 	[1] = "12250.00";
- 	 	 	 	["x"] = 12249.999999873;
  	 	 	 	["z"] = -148;
+ 	 	 	 	["x"] = 12249.999999873;
  	 	 	};
  	 	 	[7] = {
  	 	 	 	["y"] = 28957.500000026;
@@ -752,8 +752,8 @@ model = {
  	 	 	 	["name"] = "Point";
  	 	 	 	[3] = "-170.00";
  	 	 	 	[1] = "12350.00";
- 	 	 	 	["x"] = 12350.000021426;
  	 	 	 	["z"] = -148;
+ 	 	 	 	["x"] = 12350.000021426;
  	 	 	};
  	 	};
  	 	["color_"] = {
@@ -762,9 +762,9 @@ model = {
  	 	 	["name"] = "Color";
  	 	 	[3] = 0.43137254901961;
  	 	 	[1] = 0.3921568627451;
- 	 	 	["b"] = 0.43137254901961;
- 	 	 	["g"] = 0.43529411764706;
  	 	 	["r"] = 0.3921568627451;
+ 	 	 	["g"] = 0.43529411764706;
+ 	 	 	["b"] = 0.43137254901961;
  	 	};
  	 	["section"] = "PL44";
  	 	["classname"] = "Plate";

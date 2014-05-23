@@ -49,11 +49,9 @@ model = {
  	 	["section_"] = "PL9*90";
  	 	["type"] = "Member";
  	 	["user"] = "rei";
- 	 	["time"] = 1400718718;
+ 	 	["edit_status"] = "add";
  	 	["mgrid"] = "2rDG16QpbCRR2ZHYLbSi9m";
- 	 	["tekla_id"] = "205697";
- 	 	["bolts"] = {
- 	 	};
+ 	 	["name"] = "GUSSET";
  	 	["time_str"] = {
  	 	 	["min"] = 31;
  	 	 	["year"] = 2014;
@@ -62,27 +60,29 @@ model = {
  	 	 	["hour"] = 8;
  	 	 	["day"] = 22;
  	 	};
- 	 	["alignment"] = {
- 	 	 	["h"] = 0.5;
- 	 	 	["v"] = 0.5;
+ 	 	["bolts"] = {
  	 	};
- 	 	["name"] = "GUSSET";
+ 	 	["alignment"] = {
+ 	 	 	["v"] = 0.5;
+ 	 	 	["h"] = 0.5;
+ 	 	};
+ 	 	["tekla_id"] = "205697";
  	 	["ept_"] = {
  	 	 	[1] = 20941.25;
  	 	 	[2] = 18497;
  	 	 	[3] = 4319;
  	 	};
  	 	["classname"] = "Member";
- 	 	["edit_status"] = "add";
+ 	 	["time"] = 1400718718;
  	 	["color_"] = {
  	 	 	["name"] = "Color";
  	 	 	[2] = 0.513;
  	 	 	["name"] = "Color";
  	 	 	["r"] = 0.513;
  	 	 	[1] = 0.513;
- 	 	 	[3] = 0.549;
- 	 	 	["g"] = 0.513;
  	 	 	["b"] = 0.549;
+ 	 	 	["g"] = 0.513;
+ 	 	 	[3] = 0.549;
  	 	};
  	};
 };

@@ -1,13 +1,13 @@
 model = {
  	["28BJ$lTRr5ofp$YEsbVO4F"] = {
  	 	["date"] = {
- 	 	 	["hour"] = 14;
- 	 	 	["min"] = 36;
+ 	 	 	["hour"] = 15;
+ 	 	 	["min"] = 5;
  	 	 	["wday"] = 6;
  	 	 	["day"] = 23;
  	 	 	["month"] = 5;
  	 	 	["year"] = 2014;
- 	 	 	["sec"] = 47;
+ 	 	 	["sec"] = 46;
  	 	 	["yday"] = 143;
  	 	 	["isdst"] = false;
  	 	};
@@ -84,23 +84,19 @@ model = {
  	 	 	 	};
  	 	 	 	["Tolerance"] = "22";
  	 	 	 	["Nut1"] = "False";
+ 	 	 	 	["Hole5"] = "False";
+ 	 	 	 	["BoltStandard"] = "7990";
  	 	 	 	["weight"] = "0";
- 	 	 	 	["kind"] = "BoltArray";
- 	 	 	 	["FirstPosition"] = {
- 	 	 	 	 	["y"] = 28707.5;
- 	 	 	 	 	["x"] = 6000;
- 	 	 	 	 	["z"] = 4353;
- 	 	 	 	};
  	 	 	 	["Hole4"] = "False";
  	 	 	 	["Length"] = "0";
- 	 	 	 	["Nut2"] = "False";
  	 	 	 	["weight_net"] = "0";
+ 	 	 	 	["Nut2"] = "False";
+ 	 	 	 	["CutLength"] = "150";
  	 	 	 	["bolts_disty"] = {
  	 	 	 	 	[1] = {
  	 	 	 	 	 	["dis"] = "0";
  	 	 	 	 	};
  	 	 	 	};
- 	 	 	 	["CutLength"] = "150";
  	 	 	 	["EndPointOffset"] = {
  	 	 	 	 	["Dx"] = 0;
  	 	 	 	 	["Dy"] = 0;
@@ -121,8 +117,8 @@ model = {
  	 	 	 	 	 	["name"] = "Point";
  	 	 	 	 	 	[3] = 4353;
  	 	 	 	 	 	[1] = 6000;
- 	 	 	 	 	 	["x"] = 6000;
  	 	 	 	 	 	["z"] = 4353;
+ 	 	 	 	 	 	["x"] = 6000;
  	 	 	 	 	};
  	 	 	 	};
  	 	 	 	["Bolt"] = "False";
@@ -137,14 +133,22 @@ model = {
  	 	 	 	 	["DepthOffset"] = "0";
  	 	 	 	};
  	 	 	 	["Washer1"] = "False";
- 	 	 	 	["BoltStandard"] = "7990";
- 	 	 	 	["Hole5"] = "False";
+ 	 	 	 	["kind"] = "BoltArray";
+ 	 	 	 	["FirstPosition"] = {
+ 	 	 	 	 	["y"] = 28707.5;
+ 	 	 	 	 	["x"] = 6000;
+ 	 	 	 	 	["z"] = 4353;
+ 	 	 	 	};
  	 	 	 	["BoltSize"] = "0";
  	 	 	};
  	 	};
  	 	["type"] = "Plate";
  	 	["user"] = "rei";
  	 	["tekla_id"] = "45789";
+ 	 	["edit_status"] = "add";
+ 	 	["time"] = 1400718718;
+ 	 	["mgrid"] = "28BJ$lTRr5ofp$YEsbVO4F";
+ 	 	["name"] = "DIAPHRAGM";
  	 	["time_str"] = {
  	 	 	["min"] = 31;
  	 	 	["year"] = 2014;
@@ -153,10 +157,6 @@ model = {
  	 	 	["hour"] = 8;
  	 	 	["day"] = 22;
  	 	};
- 	 	["mgrid"] = "28BJ$lTRr5ofp$YEsbVO4F";
- 	 	["time"] = 1400718718;
- 	 	["name"] = "DIAPHRAGM";
- 	 	["edit_status"] = "add";
  	 	["contour"] = {
  	 	 	[1] = {
  	 	 	 	["y"] = 28482.5;
@@ -164,8 +164,8 @@ model = {
  	 	 	 	["name"] = "Point";
  	 	 	 	[3] = "4353.00";
  	 	 	 	[1] = "5775.00";
- 	 	 	 	["x"] = 5775;
  	 	 	 	["z"] = 4343.5;
+ 	 	 	 	["x"] = 5775;
  	 	 	};
  	 	 	[2] = {
  	 	 	 	["y"] = 28482.5;
@@ -173,8 +173,8 @@ model = {
  	 	 	 	["name"] = "Point";
  	 	 	 	[3] = "4353.00";
  	 	 	 	[1] = "6225.00";
- 	 	 	 	["x"] = 6225;
  	 	 	 	["z"] = 4343.5;
+ 	 	 	 	["x"] = 6225;
  	 	 	};
  	 	 	[4] = {
  	 	 	 	["y"] = 28932.5;
@@ -182,8 +182,8 @@ model = {
  	 	 	 	["name"] = "Point";
  	 	 	 	[3] = "4353.00";
  	 	 	 	[1] = "5775.00";
- 	 	 	 	["x"] = 5775;
  	 	 	 	["z"] = 4343.5;
+ 	 	 	 	["x"] = 5775;
  	 	 	};
  	 	 	[3] = {
  	 	 	 	["y"] = 28932.5;
@@ -191,8 +191,8 @@ model = {
  	 	 	 	["name"] = "Point";
  	 	 	 	[3] = "4353.00";
  	 	 	 	[1] = "6225.00";
- 	 	 	 	["x"] = 6225;
  	 	 	 	["z"] = 4343.5;
+ 	 	 	 	["x"] = 6225;
  	 	 	};
  	 	};
  	 	["color_"] = {
@@ -201,9 +201,9 @@ model = {
  	 	 	["name"] = "Color";
  	 	 	[3] = 0.43137254901961;
  	 	 	[1] = 0.3921568627451;
- 	 	 	["b"] = 0.43137254901961;
- 	 	 	["g"] = 0.43529411764706;
  	 	 	["r"] = 0.3921568627451;
+ 	 	 	["g"] = 0.43529411764706;
+ 	 	 	["b"] = 0.43137254901961;
  	 	};
  	 	["section"] = "PL19";
  	 	["classname"] = "Plate";
