@@ -49,11 +49,9 @@ model = {
  	 	["section_"] = "PL6*140";
  	 	["type"] = "Member";
  	 	["user"] = "rei";
- 	 	["time"] = 1400718718;
+ 	 	["edit_status"] = "add";
  	 	["mgrid"] = "2sObzLJpL1S8r4lMOhYrGA";
- 	 	["tekla_id"] = "146237";
- 	 	["bolts"] = {
- 	 	};
+ 	 	["name"] = "PLATE";
  	 	["time_str"] = {
  	 	 	["min"] = 31;
  	 	 	["year"] = 2014;
@@ -62,27 +60,29 @@ model = {
  	 	 	["hour"] = 8;
  	 	 	["day"] = 22;
  	 	};
- 	 	["alignment"] = {
- 	 	 	["h"] = -0.5;
- 	 	 	["v"] = 0;
+ 	 	["bolts"] = {
  	 	};
- 	 	["name"] = "PLATE";
+ 	 	["alignment"] = {
+ 	 	 	["v"] = 0;
+ 	 	 	["h"] = -0.5;
+ 	 	};
+ 	 	["tekla_id"] = "146237";
  	 	["ept_"] = {
  	 	 	[1] = "6959.08";
  	 	 	[2] = "8219.50";
  	 	 	[3] = "7617.30";
  	 	};
  	 	["classname"] = "Member";
- 	 	["edit_status"] = "add";
+ 	 	["time"] = 1400718718;
  	 	["color_"] = {
  	 	 	["name"] = "Color";
  	 	 	[2] = 0.513;
  	 	 	["name"] = "Color";
  	 	 	["r"] = 0.513;
  	 	 	[1] = 0.513;
- 	 	 	[3] = 0.549;
- 	 	 	["g"] = 0.513;
  	 	 	["b"] = 0.549;
+ 	 	 	["g"] = 0.513;
+ 	 	 	[3] = 0.549;
  	 	};
  	};
 };
