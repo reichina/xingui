@@ -1,0 +1,128 @@
+model = {
+ 	["2GnTM1noLDw9tB7wKnLets"] = {
+ 	 	["date"] = {
+ 	 	 	["hour"] = 14;
+ 	 	 	["min"] = 36;
+ 	 	 	["wday"] = 6;
+ 	 	 	["day"] = 23;
+ 	 	 	["month"] = 5;
+ 	 	 	["year"] = 2014;
+ 	 	 	["sec"] = 47;
+ 	 	 	["yday"] = 143;
+ 	 	 	["isdst"] = false;
+ 	 	};
+ 	 	["member_"] = {
+ 	 	};
+ 	 	["nor_pl"] = {
+ 	 	};
+ 	 	["bolts"] = {
+ 	 	};
+ 	 	["type"] = "BoltArray_OnMem";
+ 	 	["pl"] = {
+ 	 	 	["thick"] = 50;
+ 	 	};
+ 	 	["color_"] = {
+ 	 	 	[1] = 0.513;
+ 	 	 	[2] = 0.513;
+ 	 	 	[3] = 0.549;
+ 	 	};
+ 	 	["nor_pl_rev"] = {
+ 	 	};
+ 	 	["classname"] = "BoltArray_OnMem";
+ 	 	["date"] = {
+ 	 	 	["hour"] = 8;
+ 	 	 	["min"] = 31;
+ 	 	 	["wday"] = 5;
+ 	 	 	["day"] = 22;
+ 	 	 	["month"] = 5;
+ 	 	 	["year"] = 2014;
+ 	 	 	["sec"] = 59;
+ 	 	 	["yday"] = 142;
+ 	 	 	["isdst"] = false;
+ 	 	};
+ 	 	["member_"] = {
+ 	 	 	["beta"] = 0;
+ 	 	 	["date"] = {
+ 	 	 	 	["hour"] = 8;
+ 	 	 	 	["min"] = 31;
+ 	 	 	 	["wday"] = 5;
+ 	 	 	 	["day"] = 22;
+ 	 	 	 	["month"] = 5;
+ 	 	 	 	["year"] = 2014;
+ 	 	 	 	["sec"] = 59;
+ 	 	 	 	["yday"] = 142;
+ 	 	 	 	["isdst"] = false;
+ 	 	 	};
+ 	 	 	["class"] = "8";
+ 	 	 	["assembly_number"] = "1C40-X3D-1";
+ 	 	 	["part_number"] = "ZZZZ-3";
+ 	 	 	["weight"] = "72.55755";
+ 	 	 	["material"] = "BCR295";
+ 	 	 	["spt_"] = {
+ 	 	 	 	[1] = 12000;
+ 	 	 	 	[2] = 28707.5;
+ 	 	 	 	[3] = 8550;
+ 	 	 	};
+ 	 	 	["weight_net"] = "73.6765714771348";
+ 	 	 	["section_"] = "Å†-400X400X16";
+ 	 	 	["type"] = "Member";
+ 	 	 	["user"] = "rei";
+ 	 	 	["color_"] = {
+ 	 	 	 	[2] = 0.5;
+ 	 	 	 	["name"] = "Color";
+ 	 	 	 	["r"] = 0.5;
+ 	 	 	 	[1] = 0.5;
+ 	 	 	 	[3] = 0.5;
+ 	 	 	 	["g"] = 0.5;
+ 	 	 	 	["b"] = 0.5;
+ 	 	 	};
+ 	 	 	["mgrid"] = "1g0jH2eD50lxBP1xai1yns";
+ 	 	 	["time"] = 1400718718;
+ 	 	 	["bolts"] = {
+ 	 	 	};
+ 	 	 	["alignment"] = {
+ 	 	 	 	["v"] = 0;
+ 	 	 	 	["h"] = 0;
+ 	 	 	};
+ 	 	 	["edit_status"] = "add";
+ 	 	 	["tekla_id"] = "38948";
+ 	 	 	["ept_"] = {
+ 	 	 	 	[1] = 12000;
+ 	 	 	 	[2] = 28707.5;
+ 	 	 	 	[3] = 8950;
+ 	 	 	};
+ 	 	 	["classname"] = "Member";
+ 	 	 	["time_str"] = {
+ 	 	 	 	["min"] = 31;
+ 	 	 	 	["year"] = 2014;
+ 	 	 	 	["month"] = 5;
+ 	 	 	 	["sec"] = 58;
+ 	 	 	 	["hour"] = 8;
+ 	 	 	 	["day"] = 22;
+ 	 	 	};
+ 	 	 	["name"] = "ZZZZ";
+ 	 	};
+ 	 	["nor_pl"] = {
+ 	 	};
+ 	 	["bolts"] = {
+ 	 	};
+ 	 	["type"] = "BoltArray_OnMem";
+ 	 	["pl"] = {
+ 	 	 	["thick"] = 50;
+ 	 	};
+ 	 	["mgrid"] = "2GnTM1noLDw9tB7wKnLets";
+ 	 	["nor_pl_rev"] = {
+ 	 	};
+ 	 	["color_"] = {
+ 	 	 	["name"] = "Color";
+ 	 	 	[2] = 0.513;
+ 	 	 	["name"] = "Color";
+ 	 	 	[3] = 0.549;
+ 	 	 	[1] = 0.513;
+ 	 	 	["b"] = 0.549;
+ 	 	 	["g"] = 0.513;
+ 	 	 	["r"] = 0.513;
+ 	 	};
+ 	 	["classname"] = "BoltArray_OnMem";
+ 	};
+};

@@ -1,0 +1,88 @@
+model = {
+ 	["1V2MGgvCn1tRP0MldfgoDQ"] = {
+ 	 	["spt_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 0;
+ 	 	};
+ 	 	["beta"] = 0;
+ 	 	["section_"] = "H-200*150*6*9";
+ 	 	["alignment"] = {
+ 	 	 	["v"] = 0;
+ 	 	 	["h"] = 0;
+ 	 	};
+ 	 	["type"] = "Member";
+ 	 	["ept_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 5000;
+ 	 	};
+ 	 	["classname"] = "Member";
+ 	 	["color_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 1;
+ 	 	};
+ 	 	["beta"] = 90;
+ 	 	["date"] = {
+ 	 	 	["hour"] = 8;
+ 	 	 	["min"] = 31;
+ 	 	 	["wday"] = 5;
+ 	 	 	["day"] = 22;
+ 	 	 	["month"] = 5;
+ 	 	 	["year"] = 2014;
+ 	 	 	["sec"] = 59;
+ 	 	 	["yday"] = 142;
+ 	 	 	["isdst"] = false;
+ 	 	};
+ 	 	["class"] = "3";
+ 	 	["assembly_number"] = "MC17-3";
+ 	 	["part_number"] = "CH175-6";
+ 	 	["weight"] = "231.0475428";
+ 	 	["material"] = "SS400";
+ 	 	["spt_"] = {
+ 	 	 	[1] = 180;
+ 	 	 	[2] = 4270;
+ 	 	 	[3] = -170;
+ 	 	};
+ 	 	["weight_net"] = "223.759086440297";
+ 	 	["section_"] = "H-175X175X7.5X11";
+ 	 	["type"] = "Member";
+ 	 	["user"] = "rei";
+ 	 	["time"] = 1400718718;
+ 	 	["mgrid"] = "1V2MGgvCn1tRP0MldfgoDQ";
+ 	 	["tekla_id"] = "8813";
+ 	 	["bolts"] = {
+ 	 	};
+ 	 	["time_str"] = {
+ 	 	 	["min"] = 31;
+ 	 	 	["year"] = 2014;
+ 	 	 	["month"] = 5;
+ 	 	 	["sec"] = 58;
+ 	 	 	["hour"] = 8;
+ 	 	 	["day"] = 22;
+ 	 	};
+ 	 	["alignment"] = {
+ 	 	 	["h"] = 0;
+ 	 	 	["v"] = 0;
+ 	 	};
+ 	 	["name"] = "MC17";
+ 	 	["ept_"] = {
+ 	 	 	[1] = 180;
+ 	 	 	[2] = 4270;
+ 	 	 	[3] = 6450;
+ 	 	};
+ 	 	["classname"] = "Member";
+ 	 	["edit_status"] = "add";
+ 	 	["color_"] = {
+ 	 	 	["name"] = "Color";
+ 	 	 	[2] = 1;
+ 	 	 	["name"] = "Color";
+ 	 	 	["r"] = 0;
+ 	 	 	[1] = 0;
+ 	 	 	[3] = 0;
+ 	 	 	["g"] = 1;
+ 	 	 	["b"] = 0;
+ 	 	};
+ 	};
+};

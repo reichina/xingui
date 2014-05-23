@@ -1,0 +1,88 @@
+model = {
+ 	["0vSuBt4HH78OKhsT2t_vL9"] = {
+ 	 	["spt_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 0;
+ 	 	};
+ 	 	["beta"] = 0;
+ 	 	["section_"] = "H-200*150*6*9";
+ 	 	["alignment"] = {
+ 	 	 	["v"] = 0;
+ 	 	 	["h"] = 0;
+ 	 	};
+ 	 	["type"] = "Member";
+ 	 	["ept_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 5000;
+ 	 	};
+ 	 	["classname"] = "Member";
+ 	 	["color_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 1;
+ 	 	};
+ 	 	["beta"] = 0;
+ 	 	["date"] = {
+ 	 	 	["hour"] = 8;
+ 	 	 	["min"] = 31;
+ 	 	 	["wday"] = 5;
+ 	 	 	["day"] = 22;
+ 	 	 	["month"] = 5;
+ 	 	 	["year"] = 2014;
+ 	 	 	["sec"] = 59;
+ 	 	 	["yday"] = 142;
+ 	 	 	["isdst"] = false;
+ 	 	};
+ 	 	["class"] = "4";
+ 	 	["assembly_number"] = "G29-X4Ba-1";
+ 	 	["part_number"] = "H294-8";
+ 	 	["weight"] = "478.543065";
+ 	 	["material"] = "SS400";
+ 	 	["spt_"] = {
+ 	 	 	[1] = "6000.00";
+ 	 	 	[2] = "14200.00";
+ 	 	 	[3] = "6744.00";
+ 	 	};
+ 	 	["weight_net"] = "468.77688";
+ 	 	["section_"] = "H-294X200X8X12";
+ 	 	["type"] = "Member";
+ 	 	["user"] = "rei";
+ 	 	["time"] = 1400718718;
+ 	 	["mgrid"] = "0vSuBt4HH78OKhsT2t_vL9";
+ 	 	["tekla_id"] = "119543";
+ 	 	["bolts"] = {
+ 	 	};
+ 	 	["time_str"] = {
+ 	 	 	["min"] = 31;
+ 	 	 	["year"] = 2014;
+ 	 	 	["month"] = 5;
+ 	 	 	["sec"] = 58;
+ 	 	 	["hour"] = 8;
+ 	 	 	["day"] = 22;
+ 	 	};
+ 	 	["alignment"] = {
+ 	 	 	["h"] = 0;
+ 	 	 	["v"] = 0.5;
+ 	 	};
+ 	 	["name"] = "G29";
+ 	 	["ept_"] = {
+ 	 	 	[1] = "6000.00";
+ 	 	 	[2] = "22800.00";
+ 	 	 	[3] = "6744.00";
+ 	 	};
+ 	 	["classname"] = "Member";
+ 	 	["edit_status"] = "add";
+ 	 	["color_"] = {
+ 	 	 	["name"] = "Color";
+ 	 	 	[2] = 0;
+ 	 	 	["name"] = "Color";
+ 	 	 	["r"] = 0;
+ 	 	 	[1] = 0;
+ 	 	 	[3] = 1;
+ 	 	 	["g"] = 0;
+ 	 	 	["b"] = 1;
+ 	 	};
+ 	};
+};

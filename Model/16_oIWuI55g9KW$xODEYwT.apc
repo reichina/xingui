@@ -1,0 +1,88 @@
+model = {
+ 	["16_oIWuI55g9KW$xODEYwT"] = {
+ 	 	["spt_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 0;
+ 	 	};
+ 	 	["beta"] = 0;
+ 	 	["section_"] = "H-200*150*6*9";
+ 	 	["alignment"] = {
+ 	 	 	["v"] = 0;
+ 	 	 	["h"] = 0;
+ 	 	};
+ 	 	["type"] = "Member";
+ 	 	["ept_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 5000;
+ 	 	};
+ 	 	["classname"] = "Member";
+ 	 	["color_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 1;
+ 	 	};
+ 	 	["beta"] = 0;
+ 	 	["date"] = {
+ 	 	 	["hour"] = 8;
+ 	 	 	["min"] = 31;
+ 	 	 	["wday"] = 5;
+ 	 	 	["day"] = 22;
+ 	 	 	["month"] = 5;
+ 	 	 	["year"] = 2014;
+ 	 	 	["sec"] = 59;
+ 	 	 	["yday"] = 142;
+ 	 	 	["isdst"] = false;
+ 	 	};
+ 	 	["class"] = "4";
+ 	 	["assembly_number"] = "1C40-X5B-1";
+ 	 	["part_number"] = "CBK-13";
+ 	 	["weight"] = "65.8504791675743";
+ 	 	["material"] = "SS400";
+ 	 	["spt_"] = {
+ 	 	 	[1] = "222.50";
+ 	 	 	[2] = "7126.38";
+ 	 	 	[3] = "8850.30";
+ 	 	};
+ 	 	["weight_net"] = "60.138470473029";
+ 	 	["section_"] = "H-400X200X8X13";
+ 	 	["type"] = "Member";
+ 	 	["user"] = "rei";
+ 	 	["time"] = 1400718718;
+ 	 	["mgrid"] = "16_oIWuI55g9KW$xODEYwT";
+ 	 	["tekla_id"] = "109041";
+ 	 	["bolts"] = {
+ 	 	};
+ 	 	["time_str"] = {
+ 	 	 	["min"] = 31;
+ 	 	 	["year"] = 2014;
+ 	 	 	["month"] = 5;
+ 	 	 	["sec"] = 58;
+ 	 	 	["hour"] = 8;
+ 	 	 	["day"] = 22;
+ 	 	};
+ 	 	["alignment"] = {
+ 	 	 	["h"] = 0;
+ 	 	 	["v"] = 0.5;
+ 	 	};
+ 	 	["name"] = "G40";
+ 	 	["ept_"] = {
+ 	 	 	[1] = "222.50";
+ 	 	 	[2] = "8067.50";
+ 	 	 	[3] = "9180.00";
+ 	 	};
+ 	 	["classname"] = "Member";
+ 	 	["edit_status"] = "add";
+ 	 	["color_"] = {
+ 	 	 	["name"] = "Color";
+ 	 	 	[2] = 0;
+ 	 	 	["name"] = "Color";
+ 	 	 	["r"] = 0;
+ 	 	 	[1] = 0;
+ 	 	 	[3] = 1;
+ 	 	 	["g"] = 0;
+ 	 	 	["b"] = 1;
+ 	 	};
+ 	};
+};

@@ -1,0 +1,32 @@
+model = {
+ 	["2P9x6vGTz94BDqzDYLsrOe"] = {
+ 	 	["type"] = "Mark";
+ 	 	["text"] = "";
+ 	 	["title"] = "";
+ 	 	["classname"] = "Mark";
+ 	 	["pt1"] = {
+ 	 	 	["y"] = 0;
+ 	 	 	["x"] = 0;
+ 	 	 	["z"] = 0;
+ 	 	};
+ 	 	["main_id"] = "18X5WhE4XA3RCShqMaM5rV";
+ 	 	["pt2"] = {
+ 	 	 	["y"] = 0;
+ 	 	 	["x"] = 0;
+ 	 	 	["z"] = 0;
+ 	 	};
+ 	 	["date"] = {
+ 	 	 	["hour"] = 14;
+ 	 	 	["min"] = 52;
+ 	 	 	["wday"] = 6;
+ 	 	 	["day"] = 23;
+ 	 	 	["month"] = 5;
+ 	 	 	["year"] = 2014;
+ 	 	 	["sec"] = 39;
+ 	 	 	["yday"] = 143;
+ 	 	 	["isdst"] = false;
+ 	 	};
+ 	 	["text"] = "No.";
+ 	 	["mgrid"] = "2P9x6vGTz94BDqzDYLsrOe";
+ 	};
+};
