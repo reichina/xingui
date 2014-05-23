@@ -49,9 +49,11 @@ model = {
  	 	["section_"] = "Å†-400X400X16";
  	 	["type"] = "Member";
  	 	["user"] = "rei";
- 	 	["edit_status"] = "add";
+ 	 	["time"] = 1400718718;
  	 	["mgrid"] = "2J300Gv9v9FvytrNpjbnDZ";
- 	 	["name"] = "C40";
+ 	 	["tekla_id"] = "39764";
+ 	 	["bolts"] = {
+ 	 	};
  	 	["time_str"] = {
  	 	 	["min"] = 31;
  	 	 	["year"] = 2014;
@@ -60,29 +62,27 @@ model = {
  	 	 	["hour"] = 8;
  	 	 	["day"] = 22;
  	 	};
- 	 	["bolts"] = {
- 	 	};
  	 	["alignment"] = {
- 	 	 	["h"] = 0;
  	 	 	["v"] = 0;
+ 	 	 	["h"] = 0;
  	 	};
- 	 	["tekla_id"] = "39764";
+ 	 	["name"] = "C40";
  	 	["ept_"] = {
  	 	 	[1] = 292.5;
  	 	 	[2] = 28707.5;
  	 	 	[3] = 8550;
  	 	};
  	 	["classname"] = "Member";
- 	 	["time"] = 1400718718;
+ 	 	["edit_status"] = "add";
  	 	["color_"] = {
  	 	 	["name"] = "Color";
  	 	 	[2] = 0;
  	 	 	["name"] = "Color";
  	 	 	["r"] = 1;
  	 	 	[1] = 1;
- 	 	 	["b"] = 0;
- 	 	 	["g"] = 0;
  	 	 	[3] = 0;
+ 	 	 	["g"] = 0;
+ 	 	 	["b"] = 0;
  	 	};
  	};
 };

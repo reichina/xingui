@@ -1,13 +1,13 @@
 model = {
  	["3_4otLI8v6tugK$n8svyjq"] = {
  	 	["date"] = {
- 	 	 	["hour"] = 15;
- 	 	 	["min"] = 50;
+ 	 	 	["hour"] = 16;
+ 	 	 	["min"] = 33;
  	 	 	["wday"] = 6;
  	 	 	["day"] = 23;
  	 	 	["month"] = 5;
  	 	 	["year"] = 2014;
- 	 	 	["sec"] = 59;
+ 	 	 	["sec"] = 54;
  	 	 	["yday"] = 143;
  	 	 	["isdst"] = false;
  	 	};
@@ -67,6 +67,31 @@ model = {
  	 	 	["section_"] = "FB-25X9";
  	 	 	["type"] = "Member";
  	 	 	["user"] = "rei";
+ 	 	 	["color_"] = {
+ 	 	 	 	[2] = 0.513;
+ 	 	 	 	["name"] = "Color";
+ 	 	 	 	["r"] = 0.513;
+ 	 	 	 	[1] = 0.513;
+ 	 	 	 	[3] = 0.549;
+ 	 	 	 	["g"] = 0.513;
+ 	 	 	 	["b"] = 0.549;
+ 	 	 	};
+ 	 	 	["mgrid"] = "2Im3NwpA1AMQENFWGDIN87";
+ 	 	 	["time"] = 1400718718;
+ 	 	 	["bolts"] = {
+ 	 	 	};
+ 	 	 	["alignment"] = {
+ 	 	 	 	["h"] = 0;
+ 	 	 	 	["v"] = 0.5;
+ 	 	 	};
+ 	 	 	["edit_status"] = "add";
+ 	 	 	["tekla_id"] = "163381";
+ 	 	 	["ept_"] = {
+ 	 	 	 	[1] = "7631.99";
+ 	 	 	 	[2] = "28761.50";
+ 	 	 	 	[3] = "6707.00";
+ 	 	 	};
+ 	 	 	["classname"] = "Member";
  	 	 	["time_str"] = {
  	 	 	 	["min"] = 31;
  	 	 	 	["year"] = 2014;
@@ -75,32 +100,7 @@ model = {
  	 	 	 	["hour"] = 8;
  	 	 	 	["day"] = 22;
  	 	 	};
- 	 	 	["mgrid"] = "2Im3NwpA1AMQENFWGDIN87";
- 	 	 	["edit_status"] = "add";
- 	 	 	["classname"] = "Member";
  	 	 	["name"] = "G29A";
- 	 	 	["alignment"] = {
- 	 	 	 	["v"] = 0.5;
- 	 	 	 	["h"] = 0;
- 	 	 	};
- 	 	 	["tekla_id"] = "163381";
- 	 	 	["ept_"] = {
- 	 	 	 	[1] = "7631.99";
- 	 	 	 	[2] = "28761.50";
- 	 	 	 	[3] = "6707.00";
- 	 	 	};
- 	 	 	["color_"] = {
- 	 	 	 	[2] = 0.513;
- 	 	 	 	["name"] = "Color";
- 	 	 	 	["r"] = 0.513;
- 	 	 	 	[1] = 0.513;
- 	 	 	 	["b"] = 0.549;
- 	 	 	 	["g"] = 0.513;
- 	 	 	 	[3] = 0.549;
- 	 	 	};
- 	 	 	["bolts"] = {
- 	 	 	};
- 	 	 	["time"] = 1400718718;
  	 	};
  	 	["nor_pl"] = {
  	 	};
@@ -119,9 +119,9 @@ model = {
  	 	 	["name"] = "Color";
  	 	 	[3] = 0.549;
  	 	 	[1] = 0.513;
- 	 	 	["r"] = 0.513;
- 	 	 	["g"] = 0.513;
  	 	 	["b"] = 0.549;
+ 	 	 	["g"] = 0.513;
+ 	 	 	["r"] = 0.513;
  	 	};
  	 	["classname"] = "BoltArray_OnMem";
  	};

@@ -49,9 +49,11 @@ model = {
  	 	["section_"] = "H-250X125X6X9";
  	 	["type"] = "Member";
  	 	["user"] = "rei";
- 	 	["edit_status"] = "add";
+ 	 	["time"] = 1400718718;
  	 	["mgrid"] = "2zaQSeNe5F5gctROGefZug";
- 	 	["name"] = "ホイストレール";
+ 	 	["tekla_id"] = "254426";
+ 	 	["bolts"] = {
+ 	 	};
  	 	["time_str"] = {
  	 	 	["min"] = 31;
  	 	 	["year"] = 2014;
@@ -60,29 +62,27 @@ model = {
  	 	 	["hour"] = 8;
  	 	 	["day"] = 22;
  	 	};
- 	 	["bolts"] = {
- 	 	};
  	 	["alignment"] = {
- 	 	 	["v"] = 0.5;
  	 	 	["h"] = 0;
+ 	 	 	["v"] = 0.5;
  	 	};
- 	 	["tekla_id"] = "254426";
+ 	 	["name"] = "ホイストレール";
  	 	["ept_"] = {
  	 	 	[1] = "20778.75";
  	 	 	[2] = "11765.00";
  	 	 	[3] = "5550.00";
  	 	};
  	 	["classname"] = "Member";
- 	 	["time"] = 1400718718;
+ 	 	["edit_status"] = "add";
  	 	["color_"] = {
  	 	 	["name"] = "Color";
  	 	 	[2] = 0.75;
  	 	 	["name"] = "Color";
  	 	 	["r"] = 0.75;
  	 	 	[1] = 0.75;
- 	 	 	["b"] = 0.75;
- 	 	 	["g"] = 0.75;
  	 	 	[3] = 0.75;
+ 	 	 	["g"] = 0.75;
+ 	 	 	["b"] = 0.75;
  	 	};
  	};
 };

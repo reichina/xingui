@@ -1,13 +1,13 @@
 model = {
  	["2JJ$V3fVXDKxcp9rrMliiL"] = {
  	 	["date"] = {
- 	 	 	["hour"] = 15;
- 	 	 	["min"] = 50;
+ 	 	 	["hour"] = 16;
+ 	 	 	["min"] = 33;
  	 	 	["wday"] = 6;
  	 	 	["day"] = 23;
  	 	 	["month"] = 5;
  	 	 	["year"] = 2014;
- 	 	 	["sec"] = 59;
+ 	 	 	["sec"] = 54;
  	 	 	["yday"] = 143;
  	 	 	["isdst"] = false;
  	 	};
@@ -67,6 +67,31 @@ model = {
  	 	 	["section_"] = "M20";
  	 	 	["type"] = "Member";
  	 	 	["user"] = "rei";
+ 	 	 	["color_"] = {
+ 	 	 	 	[2] = 0;
+ 	 	 	 	["name"] = "Color";
+ 	 	 	 	["r"] = 1;
+ 	 	 	 	[1] = 1;
+ 	 	 	 	[3] = 0;
+ 	 	 	 	["g"] = 0;
+ 	 	 	 	["b"] = 0;
+ 	 	 	};
+ 	 	 	["mgrid"] = "3R992JaPX3Bwg606$OT76X";
+ 	 	 	["time"] = 1400718718;
+ 	 	 	["bolts"] = {
+ 	 	 	};
+ 	 	 	["alignment"] = {
+ 	 	 	 	["h"] = 0;
+ 	 	 	 	["v"] = 0;
+ 	 	 	};
+ 	 	 	["edit_status"] = "add";
+ 	 	 	["tekla_id"] = "310367";
+ 	 	 	["ept_"] = {
+ 	 	 	 	[1] = "2946.25";
+ 	 	 	 	[2] = "6333.25";
+ 	 	 	 	[3] = "6763.00";
+ 	 	 	};
+ 	 	 	["classname"] = "Member";
  	 	 	["time_str"] = {
  	 	 	 	["min"] = 31;
  	 	 	 	["year"] = 2014;
@@ -75,32 +100,7 @@ model = {
  	 	 	 	["hour"] = 8;
  	 	 	 	["day"] = 22;
  	 	 	};
- 	 	 	["mgrid"] = "3R992JaPX3Bwg606$OT76X";
- 	 	 	["edit_status"] = "add";
- 	 	 	["classname"] = "Member";
  	 	 	["name"] = "HV20";
- 	 	 	["alignment"] = {
- 	 	 	 	["v"] = 0;
- 	 	 	 	["h"] = 0;
- 	 	 	};
- 	 	 	["tekla_id"] = "310367";
- 	 	 	["ept_"] = {
- 	 	 	 	[1] = "2946.25";
- 	 	 	 	[2] = "6333.25";
- 	 	 	 	[3] = "6763.00";
- 	 	 	};
- 	 	 	["color_"] = {
- 	 	 	 	[2] = 0;
- 	 	 	 	["name"] = "Color";
- 	 	 	 	["r"] = 1;
- 	 	 	 	[1] = 1;
- 	 	 	 	["b"] = 0;
- 	 	 	 	["g"] = 0;
- 	 	 	 	[3] = 0;
- 	 	 	};
- 	 	 	["bolts"] = {
- 	 	 	};
- 	 	 	["time"] = 1400718718;
  	 	};
  	 	["nor_pl"] = {
  	 	};
@@ -119,9 +119,9 @@ model = {
  	 	 	["name"] = "Color";
  	 	 	[3] = 0.549;
  	 	 	[1] = 0.513;
- 	 	 	["r"] = 0.513;
- 	 	 	["g"] = 0.513;
  	 	 	["b"] = 0.549;
+ 	 	 	["g"] = 0.513;
+ 	 	 	["r"] = 0.513;
  	 	};
  	 	["classname"] = "BoltArray_OnMem";
  	};
